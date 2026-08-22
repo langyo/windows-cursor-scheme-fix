@@ -1,4 +1,4 @@
-# Windows 11 自定义光标 Arrow/Hand 不生效修复
+# Windows 11 自定义光标主题 Arrow/Hand 不生效修复或始终显示 Windows Aero 光标主题的问题
 
 在部分 Windows 11 环境中，自定义鼠标光标方案已经正确安装，注册表中的路径也完全正确，但屏幕实际显示的“正常选择”（Arrow）和“链接选择”（Hand）仍然是 Windows 经典光标。
 
